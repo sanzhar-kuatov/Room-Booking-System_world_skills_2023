@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Trial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|c:\\users\\user\\source\\repos\\trial1\\trial1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|solutionrelative:trial1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|C:\\Users\\user\\source\\repos\\Trial1\\trial1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|solutionrelative:trial1\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|C:\\Users\\user\\source\\repos\\Trial1\\trial1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|solutionrelative:trial1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|C:\\Users\\user\\source\\repos\\Trial1\\trial1\\newlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC575429-2DE2-4671-ADF5-43B6AEB7B9EE}|Trial1\\Trial1.csproj|solutionrelative:trial1\\newlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewListForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\NewListForm.cs",
+              "RelativeDocumentMoniker": "Trial1\\NewListForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\NewListForm.cs",
+              "RelativeToolTip": "Trial1\\NewListForm.cs",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAiwLoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:06:04.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\MainForm.cs",
+              "RelativeDocumentMoniker": "Trial1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\MainForm.cs",
+              "RelativeToolTip": "Trial1\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:05:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Trial1\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\RegisterForm.cs",
+              "RelativeToolTip": "Trial1\\RegisterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:04:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Trial1\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Trial1\\Trial1\\LoginForm.cs",
+              "RelativeToolTip": "Trial1\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:03:25.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

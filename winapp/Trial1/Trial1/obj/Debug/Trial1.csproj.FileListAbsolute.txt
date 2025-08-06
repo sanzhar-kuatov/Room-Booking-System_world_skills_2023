@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Trial1\Trial1\bin\Debug\TestDB.mdf
+C:\Users\user\source\repos\Trial1\Trial1\bin\Debug\TestDB_log.ldf
+C:\Users\user\source\repos\Trial1\Trial1\bin\Debug\Trial1.exe.config
+C:\Users\user\source\repos\Trial1\Trial1\bin\Debug\Trial1.exe
+C:\Users\user\source\repos\Trial1\Trial1\bin\Debug\Trial1.pdb
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.LoginForm.resources
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.Properties.Resources.resources
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.RegisterForm.resources
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.exe
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.pdb
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.MainForm.resources
+C:\Users\user\source\repos\Trial1\Trial1\obj\Debug\Trial1.NewListForm.resources
